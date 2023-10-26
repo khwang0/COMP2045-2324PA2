@@ -87,7 +87,8 @@ public class Table {
      * Constructor of the Table class.
      * 
      * You should initialize the players array, the tide cards, and the weather
-     * decks.
+     * decks. The first player should be a human player called "Anya Forger"
+     * The rest of the players should be AI players called "AI 1", "AI 2", etc.
      * 
      * @param player The number of players.
      */
@@ -157,7 +158,7 @@ public class Table {
     private void oneRound(int round) {
         // TODO
         // this method should do much more things and run at most 12 turns
-        // unless there are 3 players remaining.
+        // unless there are less than 3 players remaining.
         // We write the first turn for you to get you started.
 
         oneTurn();
