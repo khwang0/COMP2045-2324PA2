@@ -7,8 +7,8 @@
 * Q & A: [Discord](https://discordapp.com/channels/1004554070083776672/1004554070083776678)
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2045-2324PA2)
 * Due: 
-  * UAT Due: 23:59pm TBD (Monday midnight)
-  * Programming Due: 23:59pm TBD (Thursday midnight)
+  * UAT Due: 23:59pm 3/11/2023 (Friday midnight)
+  * Programming Due: 23:59pm 12/11/2023 (Sunday midnight)
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2045-2324PA2/archive/refs/heads/master.zip)
 * Partnering rule: In this assignment, you are allowed to partner with another student to complete the coding part of the assignment with the following rules apply:
@@ -65,7 +65,9 @@ There are some methods you are not allowed to touch. You should only work on the
 
 ## `TestClass` class
 
-You don't need to do anything with this java file. The purpose of this file is to conduct some *unit test* for your code. If you are using IntelliJ, you should be able to use this file within a few quick steps. By looking at this file, you should have some ideas of how the TA grade your work!
+To be provided.
+
+<!-- You don't need to do anything with this java file. The purpose of this file is to conduct some *unit test* for your code. If you are using IntelliJ, you should be able to use this file within a few quick steps. By looking at this file, you should have some ideas of how the TA grade your work!
 
 1. Open the file `TestClass.java`
 2. Click on the word `@Test` at line 31.
@@ -79,7 +81,7 @@ You don't need to do anything with this java file. The purpose of this file is t
 1. Or you will see some error if your code does not perform what it is suppose to do. For example in the figure below, the test case `testReadValidInput` is not working properly.
 ![](img/notok.png) 
 
-> Note: If you are struggle with this file (e.g. cannot compile your code), simply delete this file. 
+> Note: If you are struggle with this file (e.g. cannot compile your code), simply delete this file.  -->
 
 # Understanding the Assignment Test (UAT)
 
@@ -99,7 +101,7 @@ Submit your answers on Moodle.
 
 
 # Submission 
-For submission upload the file `Table.java`, `Player.java`, `Weather.java` to GitHub classroom.  
+For submission upload the file `Table.java`, `Player.java`, `Weather.java` to Moodle.  
 
 Please be reminded that both the **Late Penalty Rule** and the **Penalty for Plagiarism** are applied strictly to all submissions of this course (including this assignment).   
 
