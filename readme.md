@@ -1,5 +1,5 @@
 ![](hkbu.png)
-# COMP2026/COMP2045 Programming Assignment 2 - Land Unter (Turn the Tide)
+# COMP2026/COMP2046 Programming Assignment 2 - Land Unter (Turn the Tide)
 
 ## 2023-24 Semester 1
 
@@ -12,7 +12,7 @@
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2045-2324PA2/archive/refs/heads/master.zip)
 * Partnering rule: In this assignment, you are allowed to partner with another student to complete the coding part of the assignment with the following rules apply:
-  * The student you have partnered must also be taking COMP2026/COMP2045 in this semester. 
+  * The student you have partnered must also be taking COMP2026/COMP2046 in this semester. 
   * Each student may partner with at most one other student.
   * Students who are in partner should work together physically at lab with our lab machines for most of the time. You need to report the date/time/location of your working session. We may audit that with our machine login time when necessary.
   * Maximum score of the assignment is 100. If you partner with another student, the maximum score will be 90.
