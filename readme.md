@@ -8,7 +8,7 @@
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2045-2324PA2)
 * Due: 
   * UAT Due: 23:59pm 3/11/2023 (Friday midnight)
-  * Programming Due: 23:59pm 12/11/2023 (Sunday midnight)
+  * Programming Due: 23:59pm ~~12/11/2023 (Sunday midnight)~~  15/11/2023 (Wednesday midnight)
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2045-2324PA2/archive/refs/heads/master.zip)
 * Partnering rule: In this assignment, you are allowed to partner with another student to complete the coding part of the assignment with the following rules apply:
